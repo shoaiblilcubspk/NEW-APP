@@ -1,0 +1,3 @@
+Usman sale 23500 return 3450 add 00
+→
+Usman sale 23500 return 3450 add 0 PKR;
